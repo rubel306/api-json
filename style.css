@@ -1,0 +1,16 @@
+.user {
+    border: 1px solid salmon;
+    box-shadow: 1px 1px 16px #ccc;
+    padding: 35px 30px;
+    border-radius: 10px;
+    margin: 5px;
+    color: #fff;
+    background-color: purple;
+}
+.user h2 {
+    font-size: 1.5rem;
+}
+
+.user p {
+    margin-bottom: 5px;
+}
